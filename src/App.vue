@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <Triptych class="root" :level=3 />
+    <Triptych class="root" :level=1 />
   </div>
 </template>
 
